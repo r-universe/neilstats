@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/neilstats/universe
-	shallow = true
 	branch = HEAD
 [submodule "ckbplotr"]
 	path = ckbplotr
 	url = https://github.com/neilstats/ckbplotr
-	shallow = true
-	registered = true
