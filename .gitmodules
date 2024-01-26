@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/neilstats/universe
+	url = https://github.com/neilstats/neilstats.r-universe.dev
 	branch = HEAD
 [submodule "ckbplotr"]
 	path = ckbplotr
